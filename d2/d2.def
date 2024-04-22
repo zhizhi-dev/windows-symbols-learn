@@ -1,0 +1,4 @@
+LIBRARY "d2.dll"
+
+EXPORTS
+	_Hello2@4=d1._Hello@4
